@@ -1,4 +1,3 @@
-### Hi, I'm Mohamed
 
 Software engineer in London. Most of what I write is in Go.
 
